@@ -1,0 +1,13 @@
+SURFACE,Overall_Condition,Total_Streets,Percentage_of_Total
+Asphalt,Good,475,4.05%
+Asphalt,Fair,2264,19.31%
+Asphalt,Poor,2802,23.9%
+Brick,Good,2,0.02%
+Brick,Fair,3,0.03%
+Brick,Poor,25,0.21%
+Concrete,Good,501,4.27%
+Concrete,Fair,3341,28.49%
+Concrete,Poor,1877,16.01%
+Gravel,Good,199,1.7%
+Gravel,Fair,127,1.08%
+Gravel,Poor,109,0.93%
